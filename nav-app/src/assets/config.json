@@ -62,7 +62,7 @@
         },
         {
             "label": "View on ATLAS",
-            "url": "https://atlas.mitre.org/techniques/{{technique_attackID}}"
+            "url": "https://navigator.cyberiq.co/techniques/{{technique_attackID}}"
         },
         {
             "label": "CyberIQ MCP Lookup",
